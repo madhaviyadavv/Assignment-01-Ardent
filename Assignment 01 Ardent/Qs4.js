@@ -1,0 +1,7 @@
+let stock = 20;
+
+if (stock > 0) {
+    console.log("Product Available");
+} else {
+    console.log("Out of Stock");
+}
